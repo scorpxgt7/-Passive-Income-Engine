@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Passive Income Engine",
+  "description": "A system monitor and automated tracking dashboard for your ₱10,000/week digital asset arbitrage strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
